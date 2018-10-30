@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MOVIENESIA</string>
+    <string name="search_hint">Cari Film Disini</string>
+
+    <string name="rating">Peringkat: %s/10 </string>
+    <string name="release_date">Tanggal rilis : %s </string>
+    <string name="texthintpopular">Memperlihatkan film populer</string>
+    <string name="texthintresult">Kami menemukan %1s film dengan kata kunci %2s</string>
+    <string name="txtupcoming">Akan Datang</string>
+    <string name="txtnow">Sedang Dimainkan</string>
+    <string name="setting">Pengaturan</string>
+    <string name="refresh">Segarkan</string>
+    <string name="share">Hello ini adalah film %1s dari Aplikasi Muh. erdianullah - Dicoding</string>
+    <string name="overview">Sinopsis</string>
+    <string name="message_daily">Yuk nonton film-film bagus</string>
+    <string name="release_today_msg">%s Rilis hari ini, jangan lupa ditonton!</string>
+
+    <string name="pref_title_notifications">Notifications</string>
+    <string name="key_today_reminder">key_today_reminder</string>
+    <string name="daily_reminder">Pengingat Harian</string>
+    <string name="summary_daily_reminder">Kamu akan mendapatkan notifikasi setiap jam 8 pagi</string>
+    <string name="key_release_reminder">key_release_reminder</string>
+    <string name="summary_release_reminder">Kamu akan mendapatkan notifikasi setiap jam 7 pagi terkait film yang rilis hari ini</string>
+    <string name="release_reminder">Pengingat Rilis</string>
+    <string name="lang_title">Bahasa</string>
+    <string name="summary_lang">Pilih Bahasa</string>
+    <string name="lang">Bahasa</string>
+    <string name="key_lang">key_lang</string>
+</resources>
